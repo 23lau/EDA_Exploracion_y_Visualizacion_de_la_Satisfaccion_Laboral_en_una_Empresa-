@@ -1,0 +1,2 @@
+# EDA_Exploracion_y_Visualizacion_de_la_Satisfaccion_Laboral_en_una_Empresa-
+Este proyecto abarca el análisis exploratorio (EDA) sobre la satisfacción laboral de los empleados. El proceso incluye la extracción, transformación y carga (ETL) de datos, seguido de un análisis para identificar patrones y tendencias clave. A continuación, se visualizan los resultados mediante gráficos y se extraen las principales conclusiones.
